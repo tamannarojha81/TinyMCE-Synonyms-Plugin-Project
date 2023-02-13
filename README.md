@@ -30,7 +30,7 @@ from the suggested list at the cursor point in the editor.
 The actual plugin script in located within the ```js``` directory.
 
 ### API used
-Datamuse's words API
+Datamuse's words API.
 
 ### Unit Test Framework Used:
 Jasmine
