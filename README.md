@@ -1,5 +1,5 @@
 # synonyms-plugin
-A TinyMCE editor plugin to lookup synonyms of a word through Datamuse API. h
+A TinyMCE editor plugin to lookup synonyms of a word through Datamuse API. 
 
 ### GIF Workflow:
 <p align="center">
