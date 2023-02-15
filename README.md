@@ -6,16 +6,7 @@ A TinyMCE editor plugin to lookup synonyms of a word through Datamuse API.
  <img src="readmeImg/workflow.gif"/>
 </p>
 
-### Screenshots:
-<p align="center">
- <img src="readmeImg/screen1.jpg"/>
-</p>
-<p align="center">
- <img src="readmeImg/screen2.jpg"/>
-</p>
-<p align="center">
- <img src="readmeImg/screen3.jpg"/>
-</p>
+
 
 ### Description:
 This is a plugin for TinyMCE WYSIWYG editor that will lookup for synonyms of the entered text and insert the selected word 
