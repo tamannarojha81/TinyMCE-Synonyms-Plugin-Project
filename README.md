@@ -17,5 +17,4 @@ The actual plugin script in located within the ```js``` directory.
 Datamuse's words API.
 
 ### Unit Test Framework Used:
-Jasmine.
-
+Jasmine
