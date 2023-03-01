@@ -1,5 +1,5 @@
 # synonyms-plugin.
-A TinyMCE editor plugin to lookup synonyms of a word through Datamuse API. 
+A TinyMCE editor plugin to lookup synonyms of a word through Datamuse API..
 
 ### Description:
 This is a plugin for TinyMCE WYSIWYG editor that will lookup for synonyms of the entered text and insert the selected word 
