@@ -1,4 +1,4 @@
-# synonyms-plugin.
+# synonyms-plugin..
 A TinyMCE editor plugin to lookup synonyms of a word through Datamuse API..
 
 ### Description:
